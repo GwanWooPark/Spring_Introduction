@@ -1,0 +1,5 @@
+spring:
+ datasource:
+   url: jdbd:h2:tcp://localhost/~/test
+   driver-class-name: org.h2.Driver
+   username: sa
